@@ -1,0 +1,17 @@
+.primary-text {
+    font-size: 17px;
+    font-weight: bold;
+    color: #686868;
+}
+
+.secondary-text {
+    font-size: 12px;
+    font-weight: 500;
+    color: #ABABAB;
+}
+
+.time-frame {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
